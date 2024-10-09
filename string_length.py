@@ -2,5 +2,5 @@
 string = ("")
 # usage of built-in-function len()
 def string_length(string):
-  print(len(string))
+  return len(string)
 #print the built-in-function len() of the parameter string, to show the length of the string
