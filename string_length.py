@@ -9,4 +9,4 @@ length = string_length(string)
 # print the length of the string
 print(length)
 
-#print the built-in-function len() of the parameter string, to show the length of the string
+
